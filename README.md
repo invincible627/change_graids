@@ -3,9 +3,9 @@ This program allows you to change grades, written in Python
 ## availeble languages
 persian and english languages
 ### created by
-powerful392
+invincible627
 #### github profile link
-https://github.com/powerful392
+https://github.com/invincible627
 
 
 # تغییر نمرات
@@ -13,6 +13,6 @@ https://github.com/powerful392
 ## زبانهای در دسترس
 فارسی و انگلیسی
 ### ساخته شده توسط
-powerful392
+invincible627
 #### لینک پروفایل گیتهاب
-https://github.com/powerful392
+https://github.com/invincible627
